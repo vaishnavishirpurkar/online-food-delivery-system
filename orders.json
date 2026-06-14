@@ -1,0 +1,345 @@
+[
+  {
+    "id": "ORD123456",
+    "customer_id": "user_demo123",
+    "restaurant_name": "Pizza Palace",
+    "delivery_address": "Nagpur, Maharashtra",
+    "items": [
+      {
+        "name": "Cheese Burger",
+        "quantity": 2
+      }
+    ],
+    "total_amount": 298,
+    "status": "Delivered",
+    "delivery_partner_id": ""
+  },
+  {
+    "id": "ORD322208",
+    "customer_id": "user_om630",
+    "restaurant_name": "Pizza Palace",
+    "delivery_address": "Nagpur, Nagpur - 5678868 (Mob: 5689685799)",
+    "items": [
+      {
+        "name": "Cheese Burger",
+        "quantity": 1
+      }
+    ],
+    "total_amount": 196,
+    "status": "Placed",
+    "delivery_partner_id": ""
+  },
+  {
+    "id": "ORD257513",
+    "customer_id": "user_om580",
+    "restaurant_name": "Pizza Palace",
+    "delivery_address": "Nagpur, Nagpur - 885623 (Mob: 5248452152)",
+    "items": [
+      {
+        "name": "Masala Dosa",
+        "quantity": 1
+      }
+    ],
+    "total_amount": 175,
+    "status": "Placed",
+    "delivery_partner_id": ""
+  },
+  {
+    "id": "ORD180531",
+    "customer_id": "user_nehasharma774",
+    "restaurant_name": "Pizza Palace",
+    "delivery_address": "PUNA, PUNA - 484974 (Mob: 567898999)",
+    "items": [
+      {
+        "name": "Punjabi Samosa",
+        "quantity": 1
+      },
+      {
+        "name": "Cheese Burger",
+        "quantity": 1
+      },
+      {
+        "name": "Masala Dosa",
+        "quantity": 1
+      },
+      {
+        "name": "Veg Pizza",
+        "quantity": 1
+      },
+      {
+        "name": "Double Chicken Burger",
+        "quantity": 1
+      }
+    ],
+    "total_amount": 927,
+    "status": "Placed",
+    "delivery_partner_id": ""
+  },
+  {
+    "id": "ORD619419",
+    "customer_id": "user_nehasharma539",
+    "restaurant_name": "Pizza Palace",
+    "delivery_address": "NAgpur, Nagpur - 441563 (Mob: 5678989789)",
+    "items": [
+      {
+        "name": "Idli Sambhar",
+        "quantity": 1
+      }
+    ],
+    "total_amount": 133,
+    "status": "Placed",
+    "delivery_partner_id": ""
+  },
+  {
+    "id": "ORD197383",
+    "customer_id": "user_nehasharma796",
+    "restaurant_name": "Pizza Palace",
+    "delivery_address": "Nagpur, Nagpur - 44576 (Mob: 6756458767)",
+    "items": [
+      {
+        "name": "Cheese Burger",
+        "quantity": 1
+      }
+    ],
+    "total_amount": 196,
+    "status": "Placed",
+    "delivery_partner_id": ""
+  },
+  {
+    "id": "ORD329577",
+    "customer_id": "user_omroy101",
+    "restaurant_name": "Pizza Palace",
+    "delivery_address": "Nagpur, Nagpur - 441501 (Mob: 57868578567)",
+    "items": [
+      {
+        "name": "Masala Dosa",
+        "quantity": 1
+      }
+    ],
+    "total_amount": 175,
+    "status": "Placed",
+    "delivery_partner_id": ""
+  },
+  {
+    "id": "ORD841097",
+    "customer_id": "user_omroy822",
+    "restaurant_name": "Pizza Palace",
+    "delivery_address": "Nagpur, Nagpur - 441501 (Mob: 57868578567)",
+    "items": [
+      {
+        "name": "Masala Dosa",
+        "quantity": 1
+      }
+    ],
+    "total_amount": 175,
+    "status": "Placed",
+    "delivery_partner_id": ""
+  },
+  {
+    "id": "ORD302370",
+    "customer_id": "user_om469",
+    "restaurant_name": "Pizza Palace",
+    "delivery_address": "Nagpur, Nagpur - 567987 (Mob: 789678980)",
+    "items": [
+      {
+        "name": "Veg Pizza",
+        "quantity": 1
+      }
+    ],
+    "total_amount": 354,
+    "status": "Placed",
+    "delivery_partner_id": ""
+  },
+  {
+    "id": "ORD439461",
+    "customer_id": "user_ompatil757",
+    "restaurant_name": "Pizza Palace",
+    "delivery_address": "puna, puna - 221345 (Mob: 5678989899)",
+    "items": [
+      {
+        "name": "Masala Dosa",
+        "quantity": 1
+      }
+    ],
+    "total_amount": 175,
+    "status": "On the way",
+    "delivery_partner_id": ""
+  },
+  {
+    "id": "ORD502080",
+    "customer_id": "user_neha110",
+    "restaurant_name": "Pizza Palace",
+    "delivery_address": "puna, puna - 441301 (Mob: 7867546689)",
+    "items": [
+      {
+        "name": "Masala Dosa",
+        "quantity": 1
+      },
+      {
+        "name": "Punjabi Samosa",
+        "quantity": 1
+      }
+    ],
+    "total_amount": 227,
+    "status": "Delivered",
+    "delivery_partner_id": ""
+  },
+  {
+    "id": "ORD801876",
+    "customer_id": "user_vaishumankar143",
+    "restaurant_name": "Pizza Palace",
+    "delivery_address": "Mumai, Mumai - 445167 (Mob: 5678987659)",
+    "items": [
+      {
+        "name": "Cheese Burger",
+        "quantity": 1
+      },
+      {
+        "name": "Masala Dosa",
+        "quantity": 1
+      }
+    ],
+    "total_amount": 332,
+    "status": "Delivered",
+    "delivery_partner_id": ""
+  },
+  {
+    "id": "ORD285984",
+    "customer_id": "user_payal512",
+    "restaurant_name": "Pizza Palace",
+    "delivery_address": "Nagpur, nagpur - 554161 (Mob: 7689534599)",
+    "items": [
+      {
+        "name": "Cheese Burger",
+        "quantity": 1
+      }
+    ],
+    "total_amount": 196,
+    "status": "On the way",
+    "delivery_partner_id": ""
+  },
+  {
+    "id": "ORD890054",
+    "customer_id": "user_niya323",
+    "restaurant_name": "Pizza Palace",
+    "delivery_address": "Nagpur, Nagpur - 44150 (Mob: 5232856299)",
+    "items": [
+      {
+        "name": "Punjabi Samosa",
+        "quantity": 1
+      }
+    ],
+    "total_amount": 91,
+    "status": "Delivered",
+    "delivery_partner_id": ""
+  },
+  {
+    "id": "ORD656086",
+    "customer_id": "user_neha697",
+    "restaurant_name": "Pizza Palace",
+    "delivery_address": "nagpur, nagpur - 4436726 (Mob: 67987t8760)",
+    "items": [
+      {
+        "name": "Veggie Burger",
+        "quantity": 1
+      }
+    ],
+    "total_amount": 175,
+    "status": "Delivered",
+    "delivery_partner_id": ""
+  },
+  {
+    "id": "ORD470888",
+    "customer_id": "user_mona277",
+    "restaurant_name": "Pizza Palace",
+    "delivery_address": "dharampeth, nagpur - 441563 (Mob: 67958758879)",
+    "items": [
+      {
+        "name": "Cheese Burger",
+        "quantity": 1
+      }
+    ],
+    "total_amount": 196,
+    "status": "Preparing",
+    "delivery_partner_id": ""
+  },
+  {
+    "id": "ORD858414",
+    "customer_id": "user_om372",
+    "restaurant_name": "Pizza Palace",
+    "delivery_address": "nagpur, nagpur - 4424767 (Mob: 568687968)",
+    "items": [
+      {
+        "name": "Double Chicken Burger",
+        "quantity": 1
+      }
+    ],
+    "total_amount": 270,
+    "status": "Delivered",
+    "delivery_partner_id": ""
+  },
+  {
+    "id": "ORD178308",
+    "customer_id": "user_vaishnavishirpurkar542",
+    "restaurant_name": "Pizza Palace",
+    "delivery_address": "Fetri , Nagpur Maharashtra, Nagpur - 441501 (Mob: 8767960920)",
+    "items": [
+      {
+        "name": "Vada",
+        "quantity": 1
+      }
+    ],
+    "total_amount": 114,
+    "status": "Delivered",
+    "delivery_partner_id": ""
+  },
+  {
+    "id": "ORD354662",
+    "customer_id": "user_vaishnavishirpurkar754",
+    "restaurant_name": "Pizza Palace",
+    "delivery_address": "Fetri , Nagpur Maharashtra, Nagpur - 441501 (Mob: 8767960920)",
+    "items": [
+      {
+        "name": "Double Chicken Burger",
+        "quantity": 1
+      }
+    ],
+    "total_amount": 270,
+    "status": "Delivered",
+    "delivery_partner_id": ""
+  },
+  {
+    "id": "ORD668160",
+    "customer_id": "user_nehasharma334",
+    "restaurant_name": "Pizza Palace",
+    "delivery_address": "Dharampeth, nagpur, Nagpur - 441501 (Mob: 6789789797)",
+    "items": [
+      {
+        "name": "Veg Pizza",
+        "quantity": 1
+      },
+      {
+        "name": "Paneer Tikka Pizza",
+        "quantity": 1
+      }
+    ],
+    "total_amount": 565,
+    "status": "On the way",
+    "delivery_partner_id": ""
+  },
+  {
+    "id": "ORD484541",
+    "customer_id": "user_omdeshmukh395",
+    "restaurant_name": "Pizza Palace",
+    "delivery_address": "Nagpur, Nagpur - 441501 (Mob: 678975767)",
+    "items": [
+      {
+        "name": "Cheese Burger",
+        "quantity": 1
+      }
+    ],
+    "total_amount": 196,
+    "status": "On the way",
+    "delivery_partner_id": ""
+  }
+]

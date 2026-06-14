@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Cheese Burger",
+    "price": 149,
+    "category": "Burger"
+  },
+  {
+    "id": 2,
+    "name": "Veg Pizza",
+    "price": 299,
+    "category": "Pizza"
+  },
+  {
+    "id": 3,
+    "name": "Pasta",
+    "price": 199,
+    "category": "Italian"
+  },
+  {
+    "id": 4,
+    "name": "French Fries",
+    "price": 99,
+    "category": "Snacks"
+  }
+]

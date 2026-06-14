@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Pizza Palace",
+    "location": "Nagpur",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Burger Hub",
+    "location": "Nagpur",
+    "rating": 4.2
+  }
+]
